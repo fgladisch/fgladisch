@@ -95,4 +95,4 @@ LLMs are most useful when they become reliable collaborators inside transparent 
 - 🧠 **2024 – today:** Conversational AI Engineer building real-time voice AI agents for cloud PBX platforms, RAG systems, MCP integrations, and LangGraph-based multi-agent architectures
 - 🤖 **2020 – 2023:** Applied AI developer for production ML and LLM applications in telecom contexts
 - 🌐 **2015 – 2019:** Full-stack web developer across cloud PBX and contact-center platforms
-- 🎓 **B.Sc. Media and Communication Informatics**, Hochschule Rhein-Waal, Kamp-Lintfort, Germany
+- 🎓 **Media Communication and Computer Science, B.Sc.**, Hochschule Rhein-Waal, Kamp-Lintfort, Germany
