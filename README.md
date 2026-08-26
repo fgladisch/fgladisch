@@ -44,7 +44,7 @@ My main work centers around:
 
 <p align="center">
   <a href="https://github.com/can1357/oh-my-pi">
-    <img alt="Oh My Pi logo" src="https://raw.githubusercontent.com/can1357/oh-my-pi/main/assets/icon.svg" width="96">
+    <img alt="Oh My Pi logo" src="https://omp.sh/favicon.svg" width="96">
   </a>
 </p>
 
@@ -72,17 +72,11 @@ LLMs are most useful when they become reliable collaborators inside transparent 
       <p>
         My personal skills and command library for Oh My Pi, with structured workflows for planning, debugging, TDD, code review, commits, and finalizing changes.
       </p>
-      <p>
-        <strong>Why it matters:</strong> turns agentic coding into explicit, repeatable engineering practice.
-      </p>
     </td>
     <td width="50%" valign="top">
       <h3>🐳 <a href="https://github.com/fgladisch/sbx-kit-omp-dev-shell">sbx-kit-omp-dev-shell</a></h3>
       <p>
         A Docker Sandboxes kit for Oh My Pi with Zsh, fnm, pnpm, architecture-native Chromium, and repository-aware Node.js setup.
-      </p>
-      <p>
-        <strong>Why it matters:</strong> provides an isolated, reproducible development shell built around my OMP workflow.
       </p>
     </td>
   </tr>
