@@ -43,12 +43,12 @@ My main work centers around:
 ## 🌿 Open-source agentic coding
 
 <p align="center">
-  <a href="https://pi.dev">
-    <img alt="pi logo" src="https://pi.dev/logo-auto.svg" width="96">
+  <a href="https://github.com/can1357/oh-my-pi">
+    <img alt="Oh My Pi logo" src="https://raw.githubusercontent.com/can1357/oh-my-pi/main/assets/icon.svg" width="96">
   </a>
 </p>
 
-I am an advocate of the **[Pi coding agent](https://github.com/earendil-works/pi/tree/main/packages/coding-agent)** and the broader adoption of **open-source agentic coding**.
+I am an advocate of **[Oh My Pi](https://github.com/can1357/oh-my-pi)** and the broader adoption of **open-source agentic coding**.
 
 That means I like developer tooling where:
 
@@ -63,26 +63,26 @@ LLMs are most useful when they become reliable collaborators inside transparent 
 
 ---
 
-## 🚀 Featured Pi projects
+## 🚀 My OMP setup
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧰 <a href="https://github.com/fgladisch/pi-skills">pi-skills</a></h3>
+      <h3>🧰 <a href="https://github.com/fgladisch/omp-skills">omp-skills</a></h3>
       <p>
-        Personal workflow skills for the Pi coding agent. Includes structured processes for brainstorming, planning, debugging, TDD, code review, commits, simplification, and subagent-driven development.
+        My personal skills and command library for Oh My Pi, with structured workflows for planning, debugging, TDD, code review, commits, and finalizing changes.
       </p>
       <p>
         <strong>Why it matters:</strong> turns agentic coding into explicit, repeatable engineering practice.
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🧩 <a href="https://github.com/fgladisch/pi-extensions">pi-extensions</a></h3>
+      <h3>🐳 <a href="https://github.com/fgladisch/sbx-kit-omp-dev-shell">sbx-kit-omp-dev-shell</a></h3>
       <p>
-        A monorepo of Pi extensions for better local workflows: bash approval, compact footers, multiple-choice user selection, persistent prompt history, welcome screens, zsh integration, and caveman mode.
+        A Docker Sandboxes kit for Oh My Pi with Zsh, fnm, pnpm, architecture-native Chromium, and repository-aware Node.js setup.
       </p>
       <p>
-        <strong>Why it matters:</strong> makes coding-agent sessions safer, clearer, faster, and more ergonomic.
+        <strong>Why it matters:</strong> provides an isolated, reproducible development shell built around my OMP workflow.
       </p>
     </td>
   </tr>
