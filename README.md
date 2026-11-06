@@ -40,15 +40,15 @@ My main work centers around:
 
 ---
 
-## 🌿 Open-source agentic coding
+## 🌿 OpenCode
 
 <p align="center">
-  <a href="https://github.com/can1357/oh-my-pi">
-    <img alt="Oh My Pi logo" src="https://omp.sh/favicon.svg" width="96">
+  <a href="https://github.com/anomalyco/opencode">
+    <img alt="OpenCode logo" src="https://opencode.ai/favicon-v3.svg" width="96">
   </a>
 </p>
 
-I am an advocate of **[Oh My Pi](https://github.com/can1357/oh-my-pi)** and the broader adoption of **open-source agentic coding**.
+I am an advocate of **[OpenCode](https://github.com/anomalyco/opencode)** and the broader adoption of **open-source agentic coding**.
 
 That means I like developer tooling where:
 
@@ -63,20 +63,20 @@ LLMs are most useful when they become reliable collaborators inside transparent 
 
 ---
 
-## 🚀 My OMP setup
+## 🚀 My OpenCode setup
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧰 <a href="https://github.com/fgladisch/omp-skills">omp-skills</a></h3>
+      <h3>🧰 <a href="https://github.com/fgladisch/opencode-skills">opencode-skills</a></h3>
       <p>
-        My personal skills and command library for Oh My Pi, with structured workflows for planning, debugging, TDD, code review, commits, and finalizing changes.
+        My personal skills library for OpenCode, with structured workflows for debugging, TDD, code review, commits, verification, and finalizing changes.
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🐳 <a href="https://github.com/fgladisch/sbx-kit-omp-dev-shell">sbx-kit-omp-dev-shell</a></h3>
+      <h3>🐳 <a href="https://github.com/fgladisch/sbx-kit-opencode-dev-shell">sbx-kit-opencode-dev-shell</a></h3>
       <p>
-        A Docker Sandboxes kit for Oh My Pi with Zsh, fnm, pnpm, architecture-native Chromium, and repository-aware Node.js setup.
+        A Docker Sandboxes kit for OpenCode V2 with Zsh, fnm, Node.js 24 and 26, and your host OpenCode settings.
       </p>
     </td>
   </tr>
