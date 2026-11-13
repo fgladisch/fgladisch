@@ -2,11 +2,10 @@
 
 # Hi, I'm Felix 👋
 
-### Conversational AI Engineer · Full-Stack Developer · Open Agentic Coding Advocate
+### AI Engineer · Full-Stack Developer · Open Agentic Coding Advocate
 
 I build **LLM-powered applications**, **real-time voice AI pipelines**, and **agentic developer workflows** that connect language models with real systems.
 
-[![GitHub](https://img.shields.io/badge/GitHub-fgladisch-181717?style=for-the-badge&logo=github)](https://github.com/fgladisch)
 [![Website](https://img.shields.io/badge/Website-felixgladisch.de-268bd2?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://felixgladisch.de)
 
 </div>
@@ -15,7 +14,7 @@ I build **LLM-powered applications**, **real-time voice AI pipelines**, and **ag
 
 ## 🧠 What I work on
 
-I'm a **Conversational AI Engineer** based in Düsseldorf, Germany, with a full-stack background and a strong focus on applied AI systems.
+I'm an **AI Engineer** based in Düsseldorf, Germany, with a full-stack background and a strong focus on applied AI systems.
 
 My main work centers around:
 
@@ -73,7 +72,7 @@ My spec-driven workflow for OpenCode: the agent plans with OpenSpec, proves its 
 
 ## 📌 Career snapshot
 
-- 🧠 **2024 – today:** Conversational AI Engineer building real-time voice AI agents for cloud PBX platforms, RAG systems, MCP integrations, and LangGraph-based multi-agent architectures
+- 🧠 **2024 – today:** AI Engineer building real-time voice AI agents for cloud PBX platforms, RAG systems, MCP integrations, and LangGraph-based multi-agent architectures
 - 🤖 **2020 – 2023:** Applied AI developer for production ML and LLM applications in telecom contexts
 - 🌐 **2015 – 2019:** Full-stack web developer across cloud PBX and contact-center platforms
 - 🎓 **Media Communication and Computer Science, B.Sc.**, Hochschule Rhein-Waal, Kamp-Lintfort, Germany
