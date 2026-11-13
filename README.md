@@ -67,7 +67,7 @@ LLMs are most useful when they become reliable collaborators inside transparent 
 
 ### 🧰 [opencode-workflow](https://github.com/fgladisch/opencode-workflow)
 
-My personal skills library for OpenCode, with structured workflows for debugging, TDD, code review, commits, verification, and finalizing changes.
+My personal skills, commands, and agents for OpenCode. Together they take a change from planning to merge: plan it with optional OpenSpec, write tests first, debug systematically, review in Hunk with a dedicated reviewer subagent, verify before calling anything done, then commit, open a pull request, and work through review feedback until it's approved. Skill triggering is tested with evals.
 
 ---
 
