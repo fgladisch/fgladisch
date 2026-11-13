@@ -65,22 +65,9 @@ LLMs are most useful when they become reliable collaborators inside transparent 
 
 ## 🚀 My OpenCode setup
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧰 <a href="https://github.com/fgladisch/opencode-skills">opencode-skills</a></h3>
-      <p>
-        My personal skills library for OpenCode, with structured workflows for debugging, TDD, code review, commits, verification, and finalizing changes.
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🐳 <a href="https://github.com/fgladisch/sbx-kit-opencode-dev-shell">sbx-kit-opencode-dev-shell</a></h3>
-      <p>
-        A Docker Sandboxes kit for OpenCode V2 with Zsh, fnm, Node.js 24 and 26, and your host OpenCode settings.
-      </p>
-    </td>
-  </tr>
-</table>
+### 🧰 [opencode-workflow](https://github.com/fgladisch/opencode-workflow)
+
+My personal skills library for OpenCode, with structured workflows for debugging, TDD, code review, commits, verification, and finalizing changes.
 
 ---
 
